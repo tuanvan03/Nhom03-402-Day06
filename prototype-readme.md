@@ -23,12 +23,11 @@ Hệ thống AI được đề xuất để đảm nhận bước **sàng lọc 
 
 ## Mức độ prototype
 
-> **Mock Prototype**
+> **Working prototype**
+- Xem chi tiết ở video Demo.
+- UI build bằng **Claude** (HTML / CSS / JS)
+- 1 flow chính chạy thật với **OpenAI API**: nhập triệu chứng → nhận gợi ý khoa
 
-- UI build bằng **Claude Artifacts** (HTML / CSS / JS)
-- 1 flow chính chạy thật với **Gemini API**: nhập triệu chứng → nhận gợi ý khoa
-
----
 
 ## Links
 
@@ -44,7 +43,7 @@ Hệ thống AI được đề xuất để đảm nhận bước **sàng lọc 
 | Thành phần | Công cụ |
 |------------|---------|
 | UI | Claude Sonnet 4.6 |
-| AI Model | Google Gemini 3.0, GPT-5.1 |
+| AI Model | Google Gemini 3.0, GPT-5.1 Claude Sonnet 4.6|
 
 ### System Prompt
 
