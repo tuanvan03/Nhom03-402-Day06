@@ -46,7 +46,7 @@ Mỗi feature chính = 1 bảng. AI trả lời xong → chuyện gì xảy ra?
 | Correction — user sửa          | User sửa bằng cách nào? Data đó đi vào đâu?                | *Lễ tân chọn lại chuyên khoa → lưu log → dùng để improve model*                        |
 
 ### Feature 2: *Cảnh báo triệu chứng nguy hiểm*
-
+(Tuy nhiên nhóm thống nhất chỉ tập trung vào một feature chính là AI gợi ý chuyên khoa)
 **Trigger:** *AI phát hiện dấu hiệu nghiêm trọng từ triệu chứng*
 
 | Path                           | Câu hỏi thiết kế                           | Mô tả                                                                                    |
