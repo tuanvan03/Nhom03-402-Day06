@@ -19,9 +19,9 @@ kèm confidence score. Bệnh nhân chọn hoặc gặp lễ tân.
 - Prompt: system prompt + few-shot examples cho 10 triệu chứng phổ biến
 
 ## Phân công
-| Thành viên | Phần | Output |
-|-----------|------|--------|
-| An | Canvas + failure modes | spec/spec-final.md phần 1, 4 |
-| Bình | User stories 4 paths + prompt engineering | spec/spec-final.md phần 2, prototype/prompt-tests.md |
-| Châu | Eval metrics + ROI + demo slides | spec/spec-final.md phần 3, 5, demo/slides.pdf |
-| Dũng | UI prototype + demo script | prototype/, demo/demo-script.md |
+| Thành viên | Phần                                      | Output                                               |
+| ---------- | ----------------------------------------- | ---------------------------------------------------- |
+| An         | Canvas + failure modes                    | spec/spec-final.md phần 1, 4                         |
+| Bình       | User stories 4 paths + prompt engineering | spec/spec-final.md phần 2, prototype/prompt-tests.md |
+| Châu       | Eval metrics + ROI + demo slides          | spec/spec-final.md phần 3, 5, demo/slides.pdf        |
+| Dũng       | UI prototype + demo script                | prototype/, demo/demo-script.md                      |
