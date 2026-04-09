@@ -107,7 +107,7 @@ Trả về JSON hợp lệ (không markdown, không ```json, không giải thíc
 
 ## Phân công
 
-- Khải: Canvas + Problem statement
-- Tuấn: User stories 4 paths
-- Trí: Eval metrics + ROI + threshold
+- Khải: Canvas + Problem statement, demo interface, and agent system
+- Tuấn: User stories 4 paths, thiết kế flow cho demo, viết agent tool
+- Trí: Eval metrics + ROI + threshold, UX designer, viết system prompt
 - Bình: Top 3 failures test + Mini AI spec
